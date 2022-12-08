@@ -21,9 +21,9 @@ My name is Mai and I am learning how to code <img src="https://thumbs.gfycat.com
 
 <!-- links to social media icons -->
 [icon_1]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[icon_2]: https://img.shields.io/badge/Resumé-4285F4?style=for-the-badge&logo=google-drive&logoColor=white
-[icon_3]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[icon_4]: https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+[icon_2]: https://img.shields.io/badge/Resumé-100000?style=for-the-badge&logo=google-drive&logoColor=white
+[icon_3]: https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white
+[icon_4]: https://img.shields.io/badge/Tableau-100000?style=for-the-badge&logo=Tableau&logoColor=white
 <!-- Inpsired by https://github.com/carlsednaoui/gitsocial and icons from https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 <!-- links to social media accounts -->
