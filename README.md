@@ -1,6 +1,14 @@
 <h1>
-Hello there ! 
+Hello there ! Welcome to my Github!
 </h1>
+
+
+<!-- my gif -->
+<img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" width="571" height="250"/>
+
+My name is Mai and I am learning how to code <img src="https://thumbs.gfycat.com/BelatedFondKoi-max-1mb.gif" width="25" height="25"/>
+
+<!-- social media buttons -->
 
 <!-- social media buttons -->
 [![Github][icon_1]][1]
@@ -24,7 +32,7 @@ Hello there !
 [3]: https://www.linkedin.com/in/maip-le/
 [4]: https://public.tableau.com/app/profile/mai.phuong.le
 
-<!-- Inpsired by https://github.com/carlsednaoui/gitsocial and icons from https://dev.to/envoy_/150-badges-for-github-pnk -->
+
 
 <!---
 maiphle/maiphle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
